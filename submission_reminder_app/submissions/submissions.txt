@@ -1,0 +1,6 @@
+# Sample submissions records
+submission1, John Doe, 2024-11-01
+submission2, Jane Smith, 2024-11-02
+submission3, Alice Johnson, 2024-11-03
+submission4, Bob Brown, 2024-11-04
+submission5, Charlie White, 2024-11-05
